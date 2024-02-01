@@ -39,4 +39,4 @@ c99find -d example.com -oi >> ips.txt
 
 **License**
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/astrazin/c99find/main/LICENSE).
