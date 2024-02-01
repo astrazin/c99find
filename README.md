@@ -7,7 +7,7 @@
 Make sure you have Go installed on your system. You can install the tool with the following command:
 
 ```bash
-go install github.com/astrazin/c99find
+go install github.com/astrazin/c99find@latest
 ```
 
 **Usage**
