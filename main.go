@@ -58,7 +58,7 @@ func getIPAddress() (string, error) {
 		}
 	}
 
-	return "", fmt.Errorf("Error: Code 01")
+	return "", fmt.Errorf("Error: IP not found")
 }
 
 func calculateSHA1(input string) string {
